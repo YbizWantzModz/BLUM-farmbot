@@ -27,11 +27,6 @@ If you prefer a **plug-and-play** option, download:
    ```bash
    pip install -r requirements.txt
    ```
-
-## 🔥 New Feature: **BLUM_Autofarm.zip**
-For users who prefer a **plug-and-play** solution, download `BLUM_Autofarm.zip (pass:12DSAs)`, extract it, and run `BLUM.exe`.  
-This fully automated version requires **no setup** – it will pull accounts from the cloud and start farming instantly.
-
 ## Usage
 1. Run the bot manually:  
    ```bash
